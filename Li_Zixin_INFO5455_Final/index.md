@@ -1,12 +1,12 @@
 ---
-title: Case Study Template
-description: Lorem ipsum dolor sit amet
-status: Draft
-author: Your Name
+title: Shenzhen Bay Innovation and Technology Zone
+description: A government-backed tech cluster, home to large tech companies like Huawei, Tencent, and DJI.
+status: Final
+author: Zixin Li
 type: 
-city:  
-country_code: USA
-centroid: [40.712778, -74.006111]
+city:  ShenZhen
+country_code: CHN
+centroid: [22.5552, 114.0436]
 year_start: 2012
 year_completed: 2018
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
