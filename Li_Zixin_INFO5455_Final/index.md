@@ -6,11 +6,11 @@ author: Zixin Li
 type: 
 city:  ShenZhen
 country_code: CHN
-centroid: [22.5552, 114.0436]
-year_start: 2012
-year_completed: 2018
+centroid: [22.531389, 113.941389]
+year_start: 2015
+year_completed: 2020
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
+featured_alt: Shenzhen Bay
 featured_credit: Hannah Busing (Unsplash)
 tags: 
 geography: ./example.geojson
