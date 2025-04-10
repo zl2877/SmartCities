@@ -10,8 +10,8 @@ centroid: [22.531389, 113.941389]
 year_start: 2015
 year_completed: 2020
 featured_image: ./SBITC.jpeg
-featured_alt: Shenzhen Bay
-featured_credit: Hannah Busing (Unsplash)
+featured_alt: Shenzhen Bay Innovation and Technology Centre
+featured_credit: RMJM
 tags: 
 geography: ./map.geojson
 geography_caption: Optional Caption for the geograhic information.
