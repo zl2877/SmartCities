@@ -84,26 +84,27 @@ The centre includes five main towers: two dedicated to R&D offices (reaching hei
 ## Financing
 <!--  How are the technology interventions identified to be financed? How does this fit into financing of the larger project? Identify at least one financing mechanism that is being used. -->
 
-**Financing Scheme**. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Financing Scheme**. The financing scheme for the district involves a combination of public investment, private sector participation, and strategic partnerships. Firstly, the district has received substantial backing from the Shenzhen Municipal Government. This support includes funding for infrastructure and incentives to attract high-tech enterprises. Secondly, as a primary developer, Shenzhen Investment Holdings Co., Ltd. has invested significantly in the project, leveraging its resources to develop and manage the Centre. Finally, the district has also attracted large tech firms such as Huawei, Tencent, and DJI, which are using the buildings in the district as office headquarters. These partnerships provide financial contributions through leasing and investments.                
 
 
 ## Outcomes
 <!-- What results has the project produced to date? What outcomes and impacts are anticipated? Identify 3-5 (anticipated) outcomes. What will/has the project achieved? Thes should not be the same or repeated from elsewhere. Use this space to emphasize something different. -->
+Since its completion in 2020, SBITC has led to several significant outcomes that have contributed to Shenzhen’s development as a global technology hub.
 
-**Outcome 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Establishment of a High-Tech Innovation Hub**.  The Center has become a central hub for research and development, attracting major technology companies and fostering a collaborative environment for innovation. This has enhanced Shenzhen’s reputation as a modern city for technological advancement. It also sets a benchmark for similar technology districts across China.
 
-**Outcome 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Architectural and Environmental Innovation**.  SBITC showcases innovative architectural design, including the use of climate-responsive façades that optimize natural lighting and energy efficiency. These features not only provide aesthetic value but also demonstrate a commitment to environmental sustainability. 
 
-**Outcome 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**Integration of Mixed-Use Urban Development**.  The project successfully combines office spaces, residential units, and commercial facilities. This mixed-use approach promotes a vibrant community where professionals can live, work, and engage in leisure activities without needing to commute, contributing to a sustainable urban lifestyle. 
 
 ## Open Questions
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
-**Open questions 1**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**How will the district maintain affordability and accessibility for a diverse population?**.  As SBITC evolves into a high-end innovation hub, the prices of living and rent for the area raises. There’s a risk that the surrounding area becomes inaccessible to smaller businesses, young professionals with lower income , or non-tech residents. How will future policies or developments ensure a socially inclusive urban environment for a diverse population, rather than one dominated by elite tech firms and high-income workers?
 
-**Open questions 2**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**How to manage data privacy and surveillance in a high-tech district?**.  With integrated smart systems, such as facial recognition, IoT sensors, and AI-powered building controls, SBITC generates and manages large volumes of personal and behavioral data. It is important that data governance, consent, and transparency are handled appropriately across both public and private spaces.
 
-**Open questions 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture.
+**How will SBITC adapt to evolving technological trends and maintain its competitive edge?**.  LAlthough SBITC is relatively new as it was completed in 2020, technology is going to evolve rapidly in the future. As emerging technologies like AI and quantum computing advance, how will SBITC integrate these innovations into its infrastructure and services in future years? What strategies are in place to ensure that the Centre remains at the forefront of global technological advancements and continues to attract leading tech companies and talent?
 
 ## References
 
@@ -116,6 +117,7 @@ The centre includes five main towers: two dedicated to R&D offices (reaching hei
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
 - Very easy!
+- 
 
 ### Secondary Sources
 
