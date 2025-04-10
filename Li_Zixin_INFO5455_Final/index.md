@@ -126,6 +126,7 @@ Since its completion in 2020, SBITC has led to several significant outcomes that
 - [Shenzhen Investment Holdings Co., Ltd.](https://www.tencent.com)
 - [Commerce Bureau of Shenzhen Municipality. “Shenzhen National High-Tech Zone.” Shenzhen Government Online](https://www.sz.gov.cn/en_szgov/business/SpecialFunctionalAreas/content/post_11487609.html)
 - [KPMG China. “Greater Bay Area Update: Tech and Innovation GBA Newsletter.”](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2021/02/greater-bay-area-update-tech-and-innovation-gba-newsletter.pdf)
+- [Archiscene Editors. “RMJM RED Designs the Shenzhen Bay Innovation and Technology Centre in Shenzhen, China.” ](https://www.archiscene.net/mixed-use/rmjm-red-shenzhen-bay-innovation-and-technology-centre/)
 - [Tencent](https://www.tencent.com)
 - [Huawei](https://www.huawei.com)
 - [DJI](https://www.dji.com)
