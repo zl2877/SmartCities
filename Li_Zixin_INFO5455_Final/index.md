@@ -117,7 +117,7 @@ Since its completion in 2020, SBITC has led to several significant outcomes that
 - [Archello. “The Shenzhen Bay Innovation and Technology Centre.” ](https://archello.com/it/project/the-shenzhen-bay-innovation-and-technology-centre)
 - [Yantian District Government. “Shenzhen’s Innovation Centers Drive Economic Growth.” ](https://www.yantian.gov.cn/English/news/content/post_9520354.html)
 - [Goufang. “深圳湾创新科技中心：南山核心新地标，创新企业首选” ](http://sz.goufang.com/news/29734.html)
-- [Baijiahao. “深圳湾科技生态园：低碳绿色与产业创新的融合” ]([http://sz.goufang.com/news/29734.html](https://baijiahao.baidu.com/s?id=1827538338716351027&wfr=spider&for=pc))
+- [Baijiahao. “深圳湾科技生态园：低碳绿色与产业创新的融合” ](https://baijiahao.baidu.com/s?id=1827538338716351027&wfr=spider&for=pc)
 
 ### Secondary Sources
 
