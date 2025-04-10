@@ -9,11 +9,11 @@ country_code: CHN
 centroid: [22.531389, 113.941389]
 year_start: 2015
 year_completed: 2020
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
+featured_image: ./SBITC.jpeg
 featured_alt: Shenzhen Bay
 featured_credit: Hannah Busing (Unsplash)
 tags: 
-geography: ./example.geojson
+geography: ./map.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
 <!--
