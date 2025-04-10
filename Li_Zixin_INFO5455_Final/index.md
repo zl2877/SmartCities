@@ -113,17 +113,21 @@ Since its completion in 2020, SBITC has led to several significant outcomes that
 ### Primary Sources
 
 <!-- 3-5 project plans, audits, reports, etc. -->
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
-- RMJM. “Shenzhen Bay Centre.” RMJM, (https://rmjm.com/portfolio/shenzhen-bay-centre/).
-- [RMJM. “Shenzhen Bay Centre.” RMJM, ](https://rmjm.com/portfolio/shenzhen-bay-centre/)
+- [RMJM. “Shenzhen Bay Centre.” ](http://www.sihc.com.cn)
+- [Archello. “The Shenzhen Bay Innovation and Technology Centre.” ](https://archello.com/it/project/the-shenzhen-bay-innovation-and-technology-centre)
+- [Yantian District Government. “Shenzhen’s Innovation Centers Drive Economic Growth.” ](https://www.yantian.gov.cn/English/news/content/post_9520354.html)
+- [Goufang. “深圳湾创新科技中心：南山核心新地标，创新企业首选” ](http://sz.goufang.com/news/29734.html)
+- [Baijiahao. “深圳湾科技生态园：低碳绿色与产业创新的融合” ]([http://sz.goufang.com/news/29734.html](https://baijiahao.baidu.com/s?id=1827538338716351027&wfr=spider&for=pc))
 
 ### Secondary Sources
 
 <!-- 5-7 secondary source documents: news reports, blog posts, etc.. -->
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-- Very easy!
+- [Shenzhen Investment Holdings Co., Ltd.](https://www.tencent.com)
+- [Commerce Bureau of Shenzhen Municipality. “Shenzhen National High-Tech Zone.” Shenzhen Government Online](https://www.sz.gov.cn/en_szgov/business/SpecialFunctionalAreas/content/post_11487609.html)
+- [KPMG China. “Greater Bay Area Update: Tech and Innovation GBA Newsletter.”](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2021/02/greater-bay-area-update-tech-and-innovation-gba-newsletter.pdf)
+- [Tencent](https://www.tencent.com)
+- [Huawei](https://www.huawei.com)
+- [DJI](https://www.dji.com)
+
+
