@@ -1,6 +1,6 @@
 ---
 title: Shenzhen Bay Innovation and Technology Center
-description: 	A government-backed technology cluster and mixed-use development, home to major tech giants such as Huawei, Tencent, and DJI.
+description: 	A government-backed technology cluster and mixed-use development, home to major tech giants.
 status: Final
 author: Zixin Li
 type: 
