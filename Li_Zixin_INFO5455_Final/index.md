@@ -100,11 +100,11 @@ Since its completion in 2020, SBITC has led to several significant outcomes that
 ## Open Questions
 <!-- What is uncertain, unclear, or still unresolved about this project? Identify 1-3 open question(s). -->
 
-**How will the district maintain affordability and accessibility for a diverse population?**.  As SBITC evolves into a high-end innovation hub, the prices of living and rent for the area raises. There’s a risk that the surrounding area becomes inaccessible to smaller businesses, young professionals with lower income , or non-tech residents. How will future policies or developments ensure a socially inclusive urban environment for a diverse population, rather than one dominated by elite tech firms and high-income workers?
+**How will the district maintain affordability and accessibility for a diverse population?**  As SBITC evolves into a high-end innovation hub, the prices of living and rent for the area raises. There’s a risk that the surrounding area becomes inaccessible to smaller businesses, young professionals with lower income , or non-tech residents. How will future policies or developments ensure a socially inclusive urban environment for a diverse population, rather than one dominated by elite tech firms and high-income workers?
 
-**How to manage data privacy and surveillance in a high-tech district?**.  With integrated smart systems, such as facial recognition, IoT sensors, and AI-powered building controls, SBITC generates and manages large volumes of personal and behavioral data. It is important that data governance, consent, and transparency are handled appropriately across both public and private spaces.
+**How to manage data privacy and surveillance in a high-tech district?**  With integrated smart systems, such as facial recognition, IoT sensors, and AI-powered building controls, SBITC generates and manages large volumes of personal and behavioral data. It is important that data governance, consent, and transparency are handled appropriately across both public and private spaces.
 
-**How will SBITC adapt to evolving technological trends and maintain its competitive edge?**.  LAlthough SBITC is relatively new as it was completed in 2020, technology is going to evolve rapidly in the future. As emerging technologies like AI and quantum computing advance, how will SBITC integrate these innovations into its infrastructure and services in future years? What strategies are in place to ensure that the Centre remains at the forefront of global technological advancements and continues to attract leading tech companies and talent?
+**How will SBITC adapt to evolving technological trends and maintain its competitive edge?**  LAlthough SBITC is relatively new as it was completed in 2020, technology is going to evolve rapidly in the future. As emerging technologies like AI and quantum computing advance, how will SBITC integrate these innovations into its infrastructure and services in future years? What strategies are in place to ensure that the Centre remains at the forefront of global technological advancements and continues to attract leading tech companies and talent?
 
 ## References
 
@@ -117,7 +117,8 @@ Since its completion in 2020, SBITC has led to several significant outcomes that
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:
 - Very easy!
-- 
+- RMJM. “Shenzhen Bay Centre.” RMJM, (https://rmjm.com/portfolio/shenzhen-bay-centre/).
+- [RMJM. “Shenzhen Bay Centre.” RMJM, ](https://rmjm.com/portfolio/shenzhen-bay-centre/)
 
 ### Secondary Sources
 
